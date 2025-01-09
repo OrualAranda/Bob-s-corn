@@ -42,7 +42,7 @@ Before you begin, ensure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/OrualAranda/Bob-s-corn.git
 cd your-repository
 ```
 
