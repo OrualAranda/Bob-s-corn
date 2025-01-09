@@ -32,7 +32,7 @@ A full-stack application implementing a rate-limited corn selling system. This p
 
 Before you begin, ensure you have installed:
 
-- Node.js (v16 or higher)
+- Node.js (v22 or higher)
 - PostgreSQL
 - npm (Node.js package manager)
 - Git
