@@ -51,7 +51,7 @@ cd your-repository
 1. Navigate to the backend directory:
 
    ```bash
-   cd backend
+   cd corn-backend
    ```
 
 2. Install dependencies:
@@ -111,7 +111,7 @@ FRONTEND_URL=http://localhost:3000 # URL del frontend
 1. Navigate to the frontend directory:
 
    ```bash
-   cd frontend
+   cd corn-frontend
    ```
 
 2. Install dependencies:
