@@ -120,10 +120,7 @@ FRONTEND_URL=http://localhost:3000 # URL del frontend
    npm install
    ```
 
-3. Configure environment variables:
-
-   - Copy `.env.template` to `.env`
-   - Update the following variable:
+3. Create the .env file in the root of the project and add the following environment variable:
 
    ```env
    NEXT_PUBLIC_API_URL=http://localhost:3002/api/corn
